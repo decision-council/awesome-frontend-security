@@ -44,6 +44,7 @@ All contributions are welcome, please carefully review the [contributing guideli
 - [Semgrep](https://semgrep.dev/) - Static analysis tool for finding bugs and enforcing code standards.
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - Code quality scanning.
 - [Trufflehog](https://github.com/trufflesecurity/trufflehog) - Searches for secrets and other sensitive information.
+- [KeyDrift](https://keydrift.dev) - Scans deployed HTML and JavaScript for exposed secrets while recognizing public browser credentials that should not be treated as leaks.
 
 ### Supply Chain Security
 
